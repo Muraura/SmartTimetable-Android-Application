@@ -1,0 +1,227 @@
+<resources>
+    <string name="app_name">MySmartTimetable</string>
+
+    <string-array name="Main">
+        <item>Timetable</item>
+        <item>Subjects</item>
+        <item>Faculty</item>
+        <item>Resources</item>
+
+    </string-array>
+
+    <string-array name="Description">
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 3</item>
+        <item>Description 4</item>
+    </string-array>
+
+    <string-array name="Week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+
+
+    </string-array>
+    <string-array name="Monday">
+        <item>Statistics</item>
+        <item>Mob App</item>
+        <item>Break</item>
+        <item>Networking</item>
+        <item>Material process</item>
+        <item>Analytical methods</item>
+        <item>Computing</item>
+
+    </string-array>
+    <string-array name="Tuesday">
+        <item>Communication</item>
+        <item>Maths for Science</item>
+        <item>Break</item>
+        <item>Analog waves</item>
+        <item>lab 2</item>
+        <item>Literature</item>
+        <item>Aids</item>
+
+    </string-array>
+    <string-array name="Wednesday">
+        <item>Statistics</item>
+        <item>Mob App</item>
+        <item>Break</item>
+        <item>Networking</item>
+        <item>Material process</item>
+        <item>Analytical methods</item>
+        <item>Computing</item>
+
+
+    </string-array>
+    <string-array name="Thursday">
+        <item>Communication</item>
+        <item>Maths for Science</item>
+        <item>Break</item>
+        <item>Analog waves</item>
+        <item>lab 2</item>
+        <item>Literature</item>
+        <item>Aids</item>
+
+    </string-array>
+    <string-array name="Friday">
+        <item>Statistics</item>
+        <item>Mob App</item>
+        <item>Break</item>
+        <item>Networking</item>
+        <item>Material process</item>
+        <item>Analytical methods</item>
+        <item>Computing</item>
+
+    </string-array>
+    <string-array name="Saturday">
+        <item>Communication</item>
+        <item>Maths for Science</item>
+        <item>Break</item>
+
+    </string-array>
+    <string-array name="time1">
+        <item>8.55AM - 9.50AM</item>
+        <item>9.50AM - 10.45AM</item>
+        <item>10.45AM - 11.15AM </item>
+        <item>11.15AM-1.05PM</item>
+        <item>1.05PM-2.00PM</item>
+        <item>2.00PM - 2.55PM</item>
+        <item>2.55PM - 4.45PM</item>
+    </string-array>
+    <string-array name="time2">
+        <item>8.55AM - 9.50AM</item>
+        <item>9.50AM - 10.45AM</item>
+        <item>10.45AM - 11.15AM </item>
+        <item>11.15AM-1.05PM</item>
+        <item>1.05PM-2.00PM</item>
+        <item>2.00PM - 2.55PM</item>
+        <item>2.55PM - 4.45PM</item>
+    </string-array>
+    <string-array name="time3">
+        <item>8.55AM - 9.50AM</item>
+        <item>9.50AM - 10.45AM</item>
+        <item>10.45AM - 11.15AM </item>
+        <item>11.15AM-1.05PM</item>
+        <item>1.05PM-2.00PM</item>
+        <item>2.00PM - 2.55PM</item>
+        <item>2.55PM - 4.45PM</item>
+    </string-array>
+    <string-array name="time4">
+        <item>8.55AM - 9.50AM</item>
+        <item>9.50AM - 10.45AM</item>
+        <item>10.45AM - 11.15AM </item>
+        <item>11.15AM-1.05PM</item>
+        <item>1.05PM-2.00PM</item>
+        <item>2.00PM - 2.55PM</item>
+        <item>2.55PM - 4.45PM</item>
+    </string-array>
+    <string-array name="time5">
+        <item>8.55AM - 9.50AM</item>
+        <item>9.50AM - 10.45AM</item>
+        <item>10.45AM - 11.15AM </item>
+        <item>11.15AM-1.05PM</item>
+        <item>1.05PM-2.00PM</item>
+        <item>2.00PM - 2.55PM</item>
+        <item>2.55PM - 4.45PM</item>
+    </string-array>
+    <string-array name="time6">
+        <item>8.55AM - 9.50AM</item>
+        <item>9.50AM - 10.45AM</item>
+        <item>10.45AM - 11.15AM </item>
+
+    </string-array>
+    <string-array name="Subjects">
+        <item>Communication</item>
+        <item>Maths for Science</item>
+        <item>Data structures</item>
+
+
+    </string-array>
+
+    <string-array name="Communication">
+        <item>Introduction</item>
+        <item>About</item>
+        <item>Description</item>
+        <item>Question</item>
+        <item>1. Digital Communication by HayKins -John Wiley 2003
+             \n2 Digital Communications-Bernard Sklar: pearson education 2007
+        </item>
+
+
+        <item>1. Digital Communication by HayKins -John Wiley 2003
+             \n2 Digital Communications-Bernard Sklar: pearson education 2007</item>
+    </string-array>
+    <string-array name="MathsforScience">
+        <item>Introduction</item>
+        <item>About</item>
+        <item>Description</item>
+        <item>Question</item>
+        <item>1. Digital Communication by HayKins -John Wiley 2003
+        \n2 Digital Communications-Bernard Sklar: pearson education 2007
+    </item>
+
+
+        <item>1. Digital Communication by HayKins -John Wiley 2003
+        \n2 Digital Communications-Bernard Sklar: pearson education 2007</item>
+    </string-array>
+
+
+    <string-array name="DataStructures">
+        <item>Introduction</item>
+        <item>About</item>
+        <item>Description</item>
+        <item>Question</item>
+        <item>1. Digital Communication by HayKins -John Wiley 2003
+\n2 Digital Communications-Bernard Sklar: pearson education 2007
+</item>
+
+
+        <item>1. Digital Communication by HayKins -John Wiley 2003
+\n2 Digital Communications-Bernard Sklar: pearson education 2007</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Unit1</item>
+        <item>Unit2</item>
+        <item>Unit3</item>
+        <item>Unit4</item>
+        <item>Recommended Books</item>
+        <item>Other Recommended Books </item>
+
+    </string-array>
+    <string-array name="faculty_name">
+        <item>Faculty1</item>
+        <item>Faculty2</item>
+        <item>Faculty3</item>
+        <item>Faculty4</item>
+
+
+    </string-array>
+    <string-array name="faculty1">
+        <item>23456</item>
+        <item>xyz@gmail.com</item>
+        <item>1st floor</item>
+    </string-array>
+
+    <string-array name="faculty2">
+        <item>23786</item>
+        <item>abc@gmail.com</item>
+        <item>1st floor</item>
+    </string-array>
+
+    <string-array name="faculty3">
+        <item>23456</item>
+        <item>ghz@gmail.com</item>
+        <item>1st floor</item>
+    </string-array>
+
+    <string-array name="faculty4">
+        <item>23456</item>
+        <item>tgh@gmail.com</item>
+        <item>1st floor</item>
+    </string-array>
+</resources>
